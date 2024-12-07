@@ -1,4 +1,6 @@
+// +build prod
 package main
+
 
 import (
 	"encoding/json"
