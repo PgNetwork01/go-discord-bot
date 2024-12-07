@@ -25,7 +25,7 @@ var (
 	version           = "1.0.0"
 	repoReleaseAPI    = "https://api.github.com/repos/CorwinDev/Discord-Bot/releases/latest"
 	configWebhookPath = "./config/webhooks.json"
-	configBotPath     = "./config/bot.js"
+	configBotPath     = "./config/bot.go"
 )
 
 func main() {
